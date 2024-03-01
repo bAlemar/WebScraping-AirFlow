@@ -22,7 +22,7 @@
 
 4. **Instalar as dependências**
    ```bash
-   pip install –r requeriments
+   pip install –r requeriments.txt
 
 5. **Definir pasta principal do AirFlow**
    ```bash
